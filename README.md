@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Madimi+One&weight=600&size=28&pause=200&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=880&height=86&lines=The+person+who+works+hard+and+perseveres+;will+achieve+success+where+others+fail)](https://git.io/typing-svg)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mx52jing)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mx52jing&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mx52jing&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=tokyonight&&layout=compact)
 
 ![亮色](https://github.com/mx52jing/mx52jing/blob/output/github-contribution-grid-snake.svg)
