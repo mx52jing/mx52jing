@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **mx52jing/mx52jing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,5 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Madimi+One&weight=600&size=28&pause=200&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=880&height=86&lines=The+person+who+works+hard+and+perseveres+;will+achieve+success+where+others+fail)](https://git.io/typing-svg)
 
 ![亮色](https://github.com/mx52jing/mx52jing/blob/output/github-contribution-grid-snake.svg)
