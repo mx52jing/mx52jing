@@ -19,7 +19,7 @@ jobs:
       timeout-minutes: 10
       steps:
         - name: Setup Node.js
-          uses: actions/setup-node@v3
+          uses: actions/setup-node@v4
           with:
             node-version: '20'
         # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
