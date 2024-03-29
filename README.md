@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Madimi+One&weight=400&size=28&color=7957D5&pause=200&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=826&height=86&lines=The+person+who+works+hard+and+perseveres+;will+achieve+success+where+others+fail)](https://git.io/typing-svg)
 
 
-|[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mx52jing&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true)|
+|[![mx52jing's GitHub stats](https://github-readme-stats.vercel.app/api?username=mx52jing&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mx52jing&layout=compact&theme=buefy&hide_border=true)|
 | ------------- | ------------- |
 
 
